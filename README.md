@@ -1,4 +1,3 @@
-https://dev.azure.com/loicvoyer/Test%20for%20pipeline/_apis/build/status/loicvoyer.pipelines-dotnet-core?branchName=master
 [![Build Status](https://dev.azure.com/loicvoyer/Test%20for%20pipeline/_apis/build/status/loicvoyer.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/loicvoyer/Test%20for%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
